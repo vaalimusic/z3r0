@@ -1,0 +1,3 @@
+The result is either correct or incorrect.
+Small fonts reveal segmentation mistakes.
+The next experiment checks unseen typography.

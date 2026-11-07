@@ -1,0 +1,24 @@
+{
+  "epochs": 12,
+  "examples_seen": 48960,
+  "train_fonts": [
+    "C:/Windows/Fonts/arial.ttf",
+    "C:/Windows/Fonts/arialbd.ttf",
+    "C:/Windows/Fonts/calibri.ttf",
+    "C:/Windows/Fonts/calibrib.ttf",
+    "C:/Windows/Fonts/consola.ttf",
+    "C:/Windows/Fonts/consolab.ttf",
+    "C:/Windows/Fonts/georgia.ttf",
+    "C:/Windows/Fonts/georgiab.ttf",
+    "C:/Windows/Fonts/segoeui.ttf",
+    "C:/Windows/Fonts/seguisb.ttf",
+    "C:/Windows/Fonts/tahoma.ttf",
+    "C:/Windows/Fonts/tahomabd.ttf",
+    "C:/Windows/Fonts/times.ttf",
+    "C:/Windows/Fonts/timesbd.ttf",
+    "C:/Windows/Fonts/verdana.ttf"
+  ],
+  "heldout_font": "C:/Windows/Fonts/verdanab.ttf",
+  "heldout_glyph_accuracy": 0.877451,
+  "classes": 68
+}

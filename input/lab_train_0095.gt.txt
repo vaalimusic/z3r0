@@ -1,0 +1,3 @@
+A quick brown fox jumps over the lazy dog.
+Small fonts reveal segmentation mistakes.
+Every computation should justify its cost.

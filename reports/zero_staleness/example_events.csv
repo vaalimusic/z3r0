@@ -1,0 +1,17 @@
+step,tool,event,enabled,cost
+900,T6,broken,false,1.000
+1346,T3,broken,false,3.000
+1796,T6,restored,true,1.000
+2292,T2,broken,false,3.000
+2886,T6,price_change,true,3.500
+3521,T3,restored,true,3.000
+4084,T6,broken,false,3.500
+4755,T1,broken,false,2.000
+5254,T6,restored,true,3.500
+5854,T4,price_change,true,4.500
+6556,T6,broken,false,3.500
+7273,T5,broken,false,2.000
+7754,T6,restored,true,3.500
+8371,T4,broken,false,4.500
+8919,T6,price_change,true,1.000
+9503,T5,restored,true,2.000

@@ -1,0 +1,4 @@
+HELLO wORLD THIs Is A TEsT OF zERO OcR sYsTEM
+The quick brown fox jumps over the Iazy dog.
+Rust 2O26: zero reads a Ionger sentence!
+123456789O Test, test, test.

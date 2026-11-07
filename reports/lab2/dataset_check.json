@@ -1,0 +1,114 @@
+[
+  {
+    "backgrounds": {
+      "215": 7,
+      "255": 41
+    },
+    "bad_ground_truth": 0,
+    "characters": 2839,
+    "fonts": {
+      "C:/Windows/Fonts/cambria.ttc": 2,
+      "C:/Windows/Fonts/constan.ttf": 4,
+      "C:/Windows/Fonts/cour.ttf": 5,
+      "C:/Windows/Fonts/gadugi.ttf": 6,
+      "C:/Windows/Fonts/lucon.ttf": 6,
+      "C:/Windows/Fonts/pala.ttf": 4,
+      "C:/Windows/Fonts/trebuc.ttf": 7,
+      "C:/Windows/Fonts/trebucbd.ttf": 3,
+      "C:/Windows/Fonts/verdanab.ttf": 11
+    },
+    "images": 48,
+    "lines": {
+      "1": 32,
+      "2": 16
+    },
+    "mean_pixels": 140773.125,
+    "noise": {
+      "0": 33,
+      "10": 4,
+      "4": 11
+    },
+    "sizes": {
+      "34": 24,
+      "46": 24
+    },
+    "split": "test",
+    "unreadable_images": 0,
+    "untrained_font_images": 48
+  },
+  {
+    "backgrounds": {
+      "215": 21,
+      "255": 123
+    },
+    "bad_ground_truth": 0,
+    "characters": 12146,
+    "fonts": {
+      "C:/Windows/Fonts/arial.ttf": 7,
+      "C:/Windows/Fonts/arialbd.ttf": 10,
+      "C:/Windows/Fonts/calibri.ttf": 11,
+      "C:/Windows/Fonts/consola.ttf": 12,
+      "C:/Windows/Fonts/consolab.ttf": 15,
+      "C:/Windows/Fonts/georgia.ttf": 13,
+      "C:/Windows/Fonts/segoeui.ttf": 15,
+      "C:/Windows/Fonts/seguisb.ttf": 8,
+      "C:/Windows/Fonts/tahoma.ttf": 11,
+      "C:/Windows/Fonts/times.ttf": 7,
+      "C:/Windows/Fonts/timesbd.ttf": 20,
+      "C:/Windows/Fonts/verdana.ttf": 15
+    },
+    "images": 144,
+    "lines": {
+      "1": 64,
+      "2": 32,
+      "3": 48
+    },
+    "mean_pixels": 78056.125,
+    "noise": {
+      "0": 98,
+      "10": 14,
+      "4": 32
+    },
+    "sizes": {
+      "14": 48,
+      "19": 24,
+      "26": 24,
+      "34": 24,
+      "46": 24
+    },
+    "split": "train",
+    "unreadable_images": 0,
+    "untrained_font_images": 0
+  },
+  {
+    "backgrounds": {
+      "215": 7,
+      "255": 41
+    },
+    "bad_ground_truth": 0,
+    "characters": 2871,
+    "fonts": {
+      "C:/Windows/Fonts/calibrib.ttf": 12,
+      "C:/Windows/Fonts/georgiab.ttf": 16,
+      "C:/Windows/Fonts/tahomabd.ttf": 20
+    },
+    "images": 48,
+    "lines": {
+      "1": 32,
+      "2": 16
+    },
+    "mean_pixels": 58599.9375,
+    "noise": {
+      "0": 33,
+      "10": 4,
+      "4": 11
+    },
+    "sizes": {
+      "19": 24,
+      "26": 24
+    },
+    "split": "validation",
+    "unreadable_images": 0,
+    "untrained_font_images": 0
+  }
+]

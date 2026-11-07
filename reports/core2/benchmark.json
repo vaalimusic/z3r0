@@ -1,0 +1,412 @@
+[
+  {
+    "cer": 0.04375,
+    "edit_errors": 7,
+    "image": "heldout_document",
+    "median_us": 261289,
+    "memory_calls": 131,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "HELLO ?ORLD THIS IS A TEST OF zERO OCR SYSTEM\nThe q?ick brown fox j?m?s over the lazy dog.\nR?st 2026: zero reads a longer sentence!\n1234567890 Test, test, test."
+  },
+  {
+    "cer": 0.1125,
+    "edit_errors": 18,
+    "image": "heldout_document",
+    "median_us": 11664,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 131,
+    "text": "HELL? ??RLD THIs Is A TEsT ?F zER? ?cR sYsTEM\nThe quick brown fox jumps over the Iazy dog.\nRust 2O26: zero reads a Ionger sentence!\n123456789O Test, test, test."
+  },
+  {
+    "cer": 0.08125,
+    "edit_errors": 13,
+    "image": "heldout_document",
+    "median_us": 249727,
+    "memory_calls": 131,
+    "mode": "hybrid",
+    "neural_calls": 103,
+    "text": "HELLO wORLD THIs Is A TEsT OF zERO OcR sYsTEM\nThe quick brown fox jumps over the Iazy dog.\nRust 2O26: zero reads a Ionger sentence!\n123456789O Test, test, test."
+  },
+  {
+    "cer": 0.08125,
+    "edit_errors": 13,
+    "image": "heldout_document",
+    "median_us": 42182,
+    "memory_calls": 17,
+    "mode": "core01",
+    "neural_calls": 131,
+    "text": "HELLO wORLD THIs Is A TEsT OF zERO OcR sYsTEM\nThe quick brown fox jumps over the Iazy dog.\nRust 2O26: zero reads a Ionger sentence!\n123456789O Test, test, test."
+  },
+  {
+    "cer": 0.0625,
+    "edit_errors": 10,
+    "image": "heldout_document",
+    "median_us": 24428,
+    "memory_calls": 9,
+    "mode": "core02",
+    "neural_calls": 131,
+    "text": "HELLO ?ORLD THIs Is A TEsT OF zERO OCR sYsTEM\nThe quick brown fox jumps over the lazy dog.\nRust 2O26: zero reads a longer sentence!\n123456789O Test, test, test."
+  },
+  {
+    "aligned_glyphs": 131,
+    "cer": 0.01875,
+    "edit_errors": 3,
+    "image": "heldout_document",
+    "median_us": null,
+    "mode": "oracle",
+    "oracle_rescued": 15,
+    "text": "HELLO ?ORLD THIS IS A TEST OF zERO OCR SYSTEM\nThe quick brown fox jumps over the lazy dog.\nRust 2026: zero reads a longer sentence!\n1234567890 Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_01_normal.png",
+    "median_us": 80458,
+    "memory_calls": 47,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "ZER? ?S LEARN?N? T? READ W?TH?UT ANY E?ERNAL ?CR EN??NE?"
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_01_normal.png",
+    "median_us": 2896,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 47,
+    "text": "ZERO ?S LEARN?NG TO READ W?THOUT ANY E.ERNAL OCR ENG?NE."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_01_normal.png",
+    "median_us": 83618,
+    "memory_calls": 47,
+    "mode": "hybrid",
+    "neural_calls": 45,
+    "text": "ZERO ?S LEARN?NG TO READ W?THOUT ANY E.ERNAL OCR ENG?NE."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_01_normal.png",
+    "median_us": 15963,
+    "memory_calls": 7,
+    "mode": "core01",
+    "neural_calls": 47,
+    "text": "ZERO ?S LEARN?NG TO READ W?THOUT ANY E.ERNAL OCR ENG?NE."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_01_normal.png",
+    "median_us": 16441,
+    "memory_calls": 7,
+    "mode": "core02",
+    "neural_calls": 47,
+    "text": "ZERO ?S LEARN?NG TO READ W?THOUT ANY E.ERNAL OCR ENG?NE."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_02_small.png",
+    "median_us": 64749,
+    "memory_calls": 35,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "? ?? F??T ?? ? ????T?T ????? ?? ??????T????"
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_02_small.png",
+    "median_us": 2385,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 35,
+    "text": "A ?- FONT ?? ? IwORT?T ???E? IN .?OGNITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_02_small.png",
+    "median_us": 78509,
+    "memory_calls": 35,
+    "mode": "hybrid",
+    "neural_calls": 35,
+    "text": "A S- FONT C? ? IwORT?T ?SSES IN .COGNITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_02_small.png",
+    "median_us": 34624,
+    "memory_calls": 17,
+    "mode": "core01",
+    "neural_calls": 35,
+    "text": "A S- FONT C? ? IwORT?T ?SSES IN .COGNITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_02_small.png",
+    "median_us": 16141,
+    "memory_calls": 6,
+    "mode": "core02",
+    "neural_calls": 35,
+    "text": "A ?- FONT ?? ? IwORT?T ???E? IN .?OGNITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_03_bold.png",
+    "median_us": 74721,
+    "memory_calls": 40,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "THE QUI?K BROWN FOX JUMP? OVER THE LAZY DOG 2026 ."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_03_bold.png",
+    "median_us": 2701,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 40,
+    "text": "THE QUICK BROWN FOX JUMPs OVER THE LAZY DOG 2026 ."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_03_bold.png",
+    "median_us": 69878,
+    "memory_calls": 40,
+    "mode": "hybrid",
+    "neural_calls": 36,
+    "text": "THE QUICK BROWN FOX JUMPs OVER THE LAZY DOG 2026 ."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_03_bold.png",
+    "median_us": 13893,
+    "memory_calls": 6,
+    "mode": "core01",
+    "neural_calls": 40,
+    "text": "THE QUICK BROWN FOX JUMPs OVER THE LAZY DOG 2026 ."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_03_bold.png",
+    "median_us": 16092,
+    "memory_calls": 5,
+    "mode": "core02",
+    "neural_calls": 40,
+    "text": "THE QUICK BROWN FOX JUMPs OVER THE LAZY DOG 2026 ."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_04_gray.png",
+    "median_us": 69482,
+    "memory_calls": 42,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "?E??? ??D ?EU?L ?E??RK? ?U?T ???PE?E EFF???E?T?."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_04_gray.png",
+    "median_us": 3058,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 42,
+    "text": "MEMO. AND NEU.L NE-ORKS MUST COOPE-E EFFICIENTW."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_04_gray.png",
+    "median_us": 85604,
+    "memory_calls": 42,
+    "mode": "hybrid",
+    "neural_calls": 42,
+    "text": "MEMO. AND NEU.L NE-ORKS MUST COOPE-E EFFICIENTW."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_04_gray.png",
+    "median_us": 22961,
+    "memory_calls": 12,
+    "mode": "core01",
+    "neural_calls": 42,
+    "text": "MEMO. AND NEU.L NE-ORKS MUST COOPE-E EFFICIENTW."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_04_gray.png",
+    "median_us": 19926,
+    "memory_calls": 9,
+    "mode": "core02",
+    "neural_calls": 42,
+    "text": "MEMO. AND NEU.L NE-ORKS MUST COOPE-E EFFICIENTW."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_05_multiline.png",
+    "median_us": 115321,
+    "memory_calls": 69,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "ZE? I? ? ?E?M? OCR ?GI?E.\nIT MU?T L? F?M DIFFE? FO??.\nTHE FI? G? I? ?BU?T T? ?CO?ITIO?."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_05_multiline.png",
+    "median_us": 4383,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 69,
+    "text": "ZEi IS ? -EmM? OCR ?GINE.\nIT MUST L- FiM DIFFE- FO?S.\nTHE FI- G- IS iBUST T? .CO?ITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_05_multiline.png",
+    "median_us": 119581,
+    "memory_calls": 69,
+    "mode": "hybrid",
+    "neural_calls": 60,
+    "text": "ZEi IS ? -EmM? OCR ?GINE.\nIT MUST L- FiM DIFFE- FO?S.\nTHE FI- G- IS iBUST T? .CO?ITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_05_multiline.png",
+    "median_us": 44901,
+    "memory_calls": 21,
+    "mode": "core01",
+    "neural_calls": 69,
+    "text": "ZEi IS ? -EmM? OCR ?GINE.\nIT MUST L- FiM DIFFE- FO?S.\nTHE FI- G- IS iBUST T? .CO?ITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\exam_05_multiline.png",
+    "median_us": 23015,
+    "memory_calls": 10,
+    "mode": "core02",
+    "neural_calls": 69,
+    "text": "ZEi IS ? -EmM? OCR ?GINE.\nIT MUST L- FiM DIFFE- FO?S.\nTHE FI- G- IS iBUST T? .CO?ITION."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_generated.png",
+    "median_us": 216945,
+    "memory_calls": 127,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "HELLO WORLD TH?S ?S A TEST OF ZERO OCR SYSTEM\nThe qu??k b?wn ?x jumps ?ver the lazy d?g?\nRust 2026: Ze? ?ads a l?nger senten?e?\n1 234567890 Test, test, test?"
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_generated.png",
+    "median_us": 8589,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 127,
+    "text": "HELLO WORLD THIs Is A TEsT OF ZERO OCR sYsTEM\nThe quick bmWn mX jumps OVer the Iazy dOg.\nRust 2026: Zem mads a IOnger sentence!\n1 234567890 Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_generated.png",
+    "median_us": 260619,
+    "memory_calls": 127,
+    "mode": "hybrid",
+    "neural_calls": 101,
+    "text": "HELLO WORLD THIs Is A TEsT OF ZERO OCR sYsTEM\nThe quick bmWn mX jumps OVer the Iazy dOg.\nRust 2026: Zem mads a IOnger sentence!\n1 234567890 Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_generated.png",
+    "median_us": 58305,
+    "memory_calls": 19,
+    "mode": "core01",
+    "neural_calls": 127,
+    "text": "HELLO WORLD THIs Is A TEsT OF ZERO OCR sYsTEM\nThe quick bmWn mX jumps OVer the Iazy dOg.\nRust 2026: Zem mads a IOnger sentence!\n1 234567890 Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_generated.png",
+    "median_us": 63135,
+    "memory_calls": 27,
+    "mode": "core02",
+    "neural_calls": 127,
+    "text": "HELLO WORLD THIS IS A TEST OF ZERO OCR SYSTEM\nThe quick bmWn mX jumps Over the lazy dOg.\nRust 2026: Zem mads a lOnger sentence!\n1 234567890 Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_heldout.png",
+    "median_us": 240081,
+    "memory_calls": 131,
+    "mode": "memory",
+    "neural_calls": 0,
+    "text": "HELLO ?ORLD THIS IS A TEST OF zERO OCR SYSTEM\nThe q?ick brown fox j?m?s over the lazy dog.\nR?st 2026: zero reads a longer sentence!\n1234567890 Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_heldout.png",
+    "median_us": 10323,
+    "memory_calls": 0,
+    "mode": "neural",
+    "neural_calls": 131,
+    "text": "HELL? ??RLD THIs Is A TEsT ?F zER? ?cR sYsTEM\nThe quick brown fox jumps over the Iazy dog.\nRust 2O26: zero reads a Ionger sentence!\n123456789O Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_heldout.png",
+    "median_us": 237891,
+    "memory_calls": 131,
+    "mode": "hybrid",
+    "neural_calls": 103,
+    "text": "HELLO wORLD THIs Is A TEsT OF zERO OcR sYsTEM\nThe quick brown fox jumps over the Iazy dog.\nRust 2O26: zero reads a Ionger sentence!\n123456789O Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_heldout.png",
+    "median_us": 44413,
+    "memory_calls": 17,
+    "mode": "core01",
+    "neural_calls": 131,
+    "text": "HELLO wORLD THIs Is A TEsT OF zERO OcR sYsTEM\nThe quick brown fox jumps over the Iazy dog.\nRust 2O26: zero reads a Ionger sentence!\n123456789O Test, test, test."
+  },
+  {
+    "cer": null,
+    "edit_errors": null,
+    "image": "input\\zero_heldout.png",
+    "median_us": 22297,
+    "memory_calls": 9,
+    "mode": "core02",
+    "neural_calls": 131,
+    "text": "HELLO ?ORLD THIs Is A TEsT OF zERO OCR sYsTEM\nThe quick brown fox jumps over the lazy dog.\nRust 2O26: zero reads a longer sentence!\n123456789O Test, test, test."
+  }
+]

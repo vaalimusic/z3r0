@@ -1,0 +1,3 @@
+Confidence alone cannot guarantee correctness.
+Software can be fast without being accurate.
+Confidence alone cannot guarantee correctness.

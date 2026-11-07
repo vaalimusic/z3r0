@@ -1,0 +1,1001 @@
+task,kind,size,context,chosen,correct,cost,oracle
+add two numbers,0,59,0,T6,true,1,T6
+multiply two numbers,1,75,2,T6,true,1,T6
+sort an array,2,79,4,T3,true,3,T3
+reverse a string,3,79,6,T4,true,2,T4
+count vowels,4,62,8,T5,true,2,T5
+add two numbers,0,460,1,T1,true,2,T1
+multiply two numbers,1,385,3,T2,true,3,T2
+sort an array,2,364,5,T3,true,3,T3
+reverse a string,3,825,7,T4,true,2,T4
+count vowels,4,764,9,T5,true,2,T5
+add two numbers,0,54,0,T6,true,1,T6
+multiply two numbers,1,68,2,T6,true,1,T6
+sort an array,2,64,4,T3,true,3,T3
+reverse a string,3,88,6,T4,true,2,T4
+count vowels,4,92,8,T5,true,2,T5
+add two numbers,0,646,1,T1,true,2,T1
+multiply two numbers,1,387,3,T2,true,3,T2
+sort an array,2,720,5,T3,true,3,T3
+reverse a string,3,386,7,T4,true,2,T4
+count vowels,4,526,9,T5,true,2,T5
+add two numbers,0,70,0,T6,true,1,T6
+multiply two numbers,1,59,2,T6,true,1,T6
+sort an array,2,64,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,69,8,T5,true,2,T5
+add two numbers,0,476,1,T1,true,2,T1
+multiply two numbers,1,767,3,T2,true,3,T2
+sort an array,2,426,5,T3,true,3,T3
+reverse a string,3,686,7,T4,true,2,T4
+count vowels,4,689,9,T5,true,2,T5
+add two numbers,0,64,0,T6,true,1,T6
+multiply two numbers,1,57,2,T6,true,1,T6
+sort an array,2,83,4,T3,true,3,T3
+reverse a string,3,65,6,T4,true,2,T4
+count vowels,4,55,8,T5,true,2,T5
+add two numbers,0,600,1,T1,true,2,T1
+multiply two numbers,1,679,3,T2,true,3,T2
+sort an array,2,722,5,T3,true,3,T3
+reverse a string,3,692,7,T4,true,2,T4
+count vowels,4,716,9,T5,true,2,T5
+add two numbers,0,80,0,T6,true,1,T6
+multiply two numbers,1,76,2,T6,true,1,T6
+sort an array,2,61,4,T3,true,3,T3
+reverse a string,3,94,6,T4,true,2,T4
+count vowels,4,79,8,T5,true,2,T5
+add two numbers,0,531,1,T1,true,2,T1
+multiply two numbers,1,677,3,T2,true,3,T2
+sort an array,2,514,5,T3,true,3,T3
+reverse a string,3,378,7,T4,true,2,T4
+count vowels,4,427,9,T5,true,2,T5
+add two numbers,0,54,0,T6,true,1,T6
+multiply two numbers,1,70,2,T6,true,1,T6
+sort an array,2,56,4,T3,true,3,T3
+reverse a string,3,51,6,T4,true,2,T4
+count vowels,4,58,8,T5,true,2,T5
+add two numbers,0,517,1,T1,true,2,T1
+multiply two numbers,1,496,3,T2,true,3,T2
+sort an array,2,541,5,T3,true,3,T3
+reverse a string,3,510,7,T4,true,2,T4
+count vowels,4,460,9,T5,true,2,T5
+add two numbers,0,60,0,T6,true,1,T6
+multiply two numbers,1,58,2,T6,true,1,T6
+sort an array,2,68,4,T3,true,3,T3
+reverse a string,3,79,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,491,1,T1,true,2,T1
+multiply two numbers,1,477,3,T2,true,3,T2
+sort an array,2,731,5,T3,true,3,T3
+reverse a string,3,476,7,T4,true,2,T4
+count vowels,4,714,9,T5,true,2,T5
+add two numbers,0,52,0,T6,true,1,T6
+multiply two numbers,1,56,2,T6,true,1,T6
+sort an array,2,87,4,T3,true,3,T3
+reverse a string,3,82,6,T4,true,2,T4
+count vowels,4,69,8,T5,true,2,T5
+add two numbers,0,494,1,T1,true,2,T1
+multiply two numbers,1,438,3,T2,true,3,T2
+sort an array,2,847,5,T3,true,3,T3
+reverse a string,3,820,7,T4,true,2,T4
+count vowels,4,539,9,T5,true,2,T5
+add two numbers,0,61,0,T6,true,1,T6
+multiply two numbers,1,84,2,T6,true,1,T6
+sort an array,2,53,4,T3,true,3,T3
+reverse a string,3,76,6,T4,true,2,T4
+count vowels,4,65,8,T5,true,2,T5
+add two numbers,0,416,1,T1,true,2,T1
+multiply two numbers,1,364,3,T2,true,3,T2
+sort an array,2,487,5,T3,true,3,T3
+reverse a string,3,328,7,T4,true,2,T4
+count vowels,4,474,9,T5,true,2,T5
+add two numbers,0,63,0,T6,true,1,T6
+multiply two numbers,1,63,2,T6,true,1,T6
+sort an array,2,69,4,T3,true,3,T3
+reverse a string,3,85,6,T4,true,2,T4
+count vowels,4,58,8,T5,true,2,T5
+add two numbers,0,736,1,T1,true,2,T1
+multiply two numbers,1,839,3,T2,true,3,T2
+sort an array,2,353,5,T3,true,3,T3
+reverse a string,3,337,7,T4,true,2,T4
+count vowels,4,808,9,T5,true,2,T5
+add two numbers,0,70,0,T6,true,1,T6
+multiply two numbers,1,50,2,T6,true,1,T6
+sort an array,2,70,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,74,8,T5,true,2,T5
+add two numbers,0,669,1,T1,true,2,T1
+multiply two numbers,1,661,3,T2,true,3,T2
+sort an array,2,794,5,T3,true,3,T3
+reverse a string,3,827,7,T4,true,2,T4
+count vowels,4,440,9,T5,true,2,T5
+add two numbers,0,57,0,T6,true,1,T6
+multiply two numbers,1,51,2,T6,true,1,T6
+sort an array,2,92,4,T3,true,3,T3
+reverse a string,3,74,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,653,1,T1,true,2,T1
+multiply two numbers,1,445,3,T2,true,3,T2
+sort an array,2,370,5,T3,true,3,T3
+reverse a string,3,512,7,T4,true,2,T4
+count vowels,4,797,9,T5,true,2,T5
+add two numbers,0,91,0,T6,true,1,T6
+multiply two numbers,1,89,2,T6,true,1,T6
+sort an array,2,62,4,T3,true,3,T3
+reverse a string,3,82,6,T4,true,2,T4
+count vowels,4,60,8,T5,true,2,T5
+add two numbers,0,503,1,T1,true,2,T1
+multiply two numbers,1,474,3,T2,true,3,T2
+sort an array,2,517,5,T3,true,3,T3
+reverse a string,3,354,7,T4,true,2,T4
+count vowels,4,628,9,T5,true,2,T5
+add two numbers,0,81,0,T6,true,1,T6
+multiply two numbers,1,59,2,T6,true,1,T6
+sort an array,2,57,4,T3,true,3,T3
+reverse a string,3,71,6,T4,true,2,T4
+count vowels,4,91,8,T5,true,2,T5
+add two numbers,0,591,1,T1,true,2,T1
+multiply two numbers,1,671,3,T2,true,3,T2
+sort an array,2,554,5,T3,true,3,T3
+reverse a string,3,347,7,T4,true,2,T4
+count vowels,4,762,9,T5,true,2,T5
+add two numbers,0,65,0,T6,true,1,T6
+multiply two numbers,1,81,2,T6,true,1,T6
+sort an array,2,78,4,T3,true,3,T3
+reverse a string,3,87,6,T4,true,2,T4
+count vowels,4,80,8,T5,true,2,T5
+add two numbers,0,454,1,T1,true,2,T1
+multiply two numbers,1,748,3,T2,true,3,T2
+sort an array,2,536,5,T3,true,3,T3
+reverse a string,3,840,7,T4,true,2,T4
+count vowels,4,577,9,T5,true,2,T5
+add two numbers,0,53,0,T6,true,1,T6
+multiply two numbers,1,78,2,T6,true,1,T6
+sort an array,2,62,4,T3,true,3,T3
+reverse a string,3,61,6,T4,true,2,T4
+count vowels,4,54,8,T5,true,2,T5
+add two numbers,0,829,1,T1,true,2,T1
+multiply two numbers,1,511,3,T2,true,3,T2
+sort an array,2,456,5,T3,true,3,T3
+reverse a string,3,599,7,T4,true,2,T4
+count vowels,4,676,9,T5,true,2,T5
+add two numbers,0,77,0,T6,true,1,T6
+multiply two numbers,1,50,2,T6,true,1,T6
+sort an array,2,87,4,T3,true,3,T3
+reverse a string,3,54,6,T4,true,2,T4
+count vowels,4,77,8,T5,true,2,T5
+add two numbers,0,367,1,T1,true,2,T1
+multiply two numbers,1,659,3,T2,true,3,T2
+sort an array,2,785,5,T3,true,3,T3
+reverse a string,3,723,7,T4,true,2,T4
+count vowels,4,552,9,T5,true,2,T5
+add two numbers,0,87,0,T6,true,1,T6
+multiply two numbers,1,76,2,T6,true,1,T6
+sort an array,2,81,4,T3,true,3,T3
+reverse a string,3,69,6,T4,true,2,T4
+count vowels,4,85,8,T5,true,2,T5
+add two numbers,0,495,1,T1,true,2,T1
+multiply two numbers,1,356,3,T2,true,3,T2
+sort an array,2,689,5,T3,true,3,T3
+reverse a string,3,390,7,T4,true,2,T4
+count vowels,4,382,9,T5,true,2,T5
+add two numbers,0,94,0,T6,true,1,T6
+multiply two numbers,1,90,2,T6,true,1,T6
+sort an array,2,83,4,T3,true,3,T3
+reverse a string,3,55,6,T4,true,2,T4
+count vowels,4,81,8,T5,true,2,T5
+add two numbers,0,691,1,T1,true,2,T1
+multiply two numbers,1,430,3,T2,true,3,T2
+sort an array,2,540,5,T3,true,3,T3
+reverse a string,3,510,7,T4,true,2,T4
+count vowels,4,709,9,T5,true,2,T5
+add two numbers,0,67,0,T6,true,1,T6
+multiply two numbers,1,82,2,T6,true,1,T6
+sort an array,2,68,4,T3,true,3,T3
+reverse a string,3,52,6,T4,true,2,T4
+count vowels,4,68,8,T5,true,2,T5
+add two numbers,0,830,1,T1,true,2,T1
+multiply two numbers,1,517,3,T2,true,3,T2
+sort an array,2,830,5,T3,true,3,T3
+reverse a string,3,605,7,T4,true,2,T4
+count vowels,4,807,9,T5,true,2,T5
+add two numbers,0,69,0,T6,true,1,T6
+multiply two numbers,1,80,2,T6,true,1,T6
+sort an array,2,76,4,T3,true,3,T3
+reverse a string,3,62,6,T4,true,2,T4
+count vowels,4,88,8,T5,true,2,T5
+add two numbers,0,742,1,T1,true,2,T1
+multiply two numbers,1,526,3,T2,true,3,T2
+sort an array,2,810,5,T3,true,3,T3
+reverse a string,3,691,7,T4,true,2,T4
+count vowels,4,346,9,T5,true,2,T5
+add two numbers,0,91,0,T6,true,1,T6
+multiply two numbers,1,90,2,T6,true,1,T6
+sort an array,2,54,4,T3,true,3,T3
+reverse a string,3,82,6,T4,true,2,T4
+count vowels,4,50,8,T5,true,2,T5
+add two numbers,0,550,1,T1,true,2,T1
+multiply two numbers,1,366,3,T2,true,3,T2
+sort an array,2,661,5,T3,true,3,T3
+reverse a string,3,353,7,T4,true,2,T4
+count vowels,4,725,9,T5,true,2,T5
+add two numbers,0,86,0,T6,true,1,T6
+multiply two numbers,1,51,2,T6,true,1,T6
+sort an array,2,82,4,T3,true,3,T3
+reverse a string,3,92,6,T4,true,2,T4
+count vowels,4,72,8,T5,true,2,T5
+add two numbers,0,387,1,T1,true,2,T1
+multiply two numbers,1,697,3,T2,true,3,T2
+sort an array,2,419,5,T3,true,3,T3
+reverse a string,3,672,7,T4,true,2,T4
+count vowels,4,398,9,T5,true,2,T5
+add two numbers,0,86,0,T6,true,1,T6
+multiply two numbers,1,54,2,T6,true,1,T6
+sort an array,2,86,4,T3,true,3,T3
+reverse a string,3,67,6,T4,true,2,T4
+count vowels,4,74,8,T5,true,2,T5
+add two numbers,0,648,1,T1,true,2,T1
+multiply two numbers,1,590,3,T2,true,3,T2
+sort an array,2,676,5,T3,true,3,T3
+reverse a string,3,699,7,T4,true,2,T4
+count vowels,4,830,9,T5,true,2,T5
+add two numbers,0,76,0,T6,true,1,T6
+multiply two numbers,1,87,2,T6,true,1,T6
+sort an array,2,91,4,T3,true,3,T3
+reverse a string,3,80,6,T4,true,2,T4
+count vowels,4,79,8,T5,true,2,T5
+add two numbers,0,406,1,T1,true,2,T1
+multiply two numbers,1,582,3,T2,true,3,T2
+sort an array,2,590,5,T3,true,3,T3
+reverse a string,3,359,7,T4,true,2,T4
+count vowels,4,562,9,T5,true,2,T5
+add two numbers,0,54,0,T6,true,1,T6
+multiply two numbers,1,93,2,T6,true,1,T6
+sort an array,2,61,4,T3,true,3,T3
+reverse a string,3,77,6,T4,true,2,T4
+count vowels,4,71,8,T5,true,2,T5
+add two numbers,0,364,1,T1,true,2,T1
+multiply two numbers,1,428,3,T2,true,3,T2
+sort an array,2,534,5,T3,true,3,T3
+reverse a string,3,437,7,T4,true,2,T4
+count vowels,4,687,9,T5,true,2,T5
+add two numbers,0,69,0,T6,true,1,T6
+multiply two numbers,1,62,2,T6,true,1,T6
+sort an array,2,92,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,824,1,T1,true,2,T1
+multiply two numbers,1,520,3,T2,true,3,T2
+sort an array,2,489,5,T3,true,3,T3
+reverse a string,3,397,7,T4,true,2,T4
+count vowels,4,462,9,T5,true,2,T5
+add two numbers,0,91,0,T6,true,1,T6
+multiply two numbers,1,61,2,T6,true,1,T6
+sort an array,2,51,4,T3,true,3,T3
+reverse a string,3,92,6,T4,true,2,T4
+count vowels,4,81,8,T5,true,2,T5
+add two numbers,0,351,1,T1,true,2,T1
+multiply two numbers,1,574,3,T2,true,3,T2
+sort an array,2,738,5,T3,true,3,T3
+reverse a string,3,634,7,T4,true,2,T4
+count vowels,4,471,9,T5,true,2,T5
+add two numbers,0,84,0,T6,true,1,T6
+multiply two numbers,1,65,2,T6,true,1,T6
+sort an array,2,71,4,T3,true,3,T3
+reverse a string,3,65,6,T4,true,2,T4
+count vowels,4,58,8,T5,true,2,T5
+add two numbers,0,777,1,T1,true,2,T1
+multiply two numbers,1,847,3,T2,true,3,T2
+sort an array,2,342,5,T3,true,3,T3
+reverse a string,3,746,7,T4,true,2,T4
+count vowels,4,686,9,T5,true,2,T5
+add two numbers,0,51,0,T6,true,1,T6
+multiply two numbers,1,87,2,T6,true,1,T6
+sort an array,2,87,4,T3,true,3,T3
+reverse a string,3,82,6,T4,true,2,T4
+count vowels,4,63,8,T5,true,2,T5
+add two numbers,0,782,1,T1,true,2,T1
+multiply two numbers,1,381,3,T2,true,3,T2
+sort an array,2,482,5,T3,true,3,T3
+reverse a string,3,473,7,T4,true,2,T4
+count vowels,4,351,9,T5,true,2,T5
+add two numbers,0,79,0,T6,true,1,T6
+multiply two numbers,1,84,2,T6,true,1,T6
+sort an array,2,59,4,T3,true,3,T3
+reverse a string,3,61,6,T4,true,2,T4
+count vowels,4,73,8,T5,true,2,T5
+add two numbers,0,422,1,T1,true,2,T1
+multiply two numbers,1,713,3,T2,true,3,T2
+sort an array,2,601,5,T3,true,3,T3
+reverse a string,3,822,7,T4,true,2,T4
+count vowels,4,655,9,T5,true,2,T5
+add two numbers,0,77,0,T6,true,1,T6
+multiply two numbers,1,85,2,T6,true,1,T6
+sort an array,2,75,4,T3,true,3,T3
+reverse a string,3,93,6,T4,true,2,T4
+count vowels,4,56,8,T5,true,2,T5
+add two numbers,0,527,1,T1,true,2,T1
+multiply two numbers,1,645,3,T2,true,3,T2
+sort an array,2,827,5,T3,true,3,T3
+reverse a string,3,370,7,T4,true,2,T4
+count vowels,4,471,9,T5,true,2,T5
+add two numbers,0,86,0,T6,true,1,T6
+multiply two numbers,1,66,2,T6,true,1,T6
+sort an array,2,78,4,T3,true,3,T3
+reverse a string,3,81,6,T4,true,2,T4
+count vowels,4,83,8,T5,true,2,T5
+add two numbers,0,406,1,T1,true,2,T1
+multiply two numbers,1,559,3,T2,true,3,T2
+sort an array,2,674,5,T3,true,3,T3
+reverse a string,3,346,7,T4,true,2,T4
+count vowels,4,453,9,T5,true,2,T5
+add two numbers,0,70,0,T6,true,1,T6
+multiply two numbers,1,77,2,T6,true,1,T6
+sort an array,2,56,4,T3,true,3,T3
+reverse a string,3,88,6,T4,true,2,T4
+count vowels,4,78,8,T5,true,2,T5
+add two numbers,0,738,1,T1,true,2,T1
+multiply two numbers,1,726,3,T2,true,3,T2
+sort an array,2,371,5,T3,true,3,T3
+reverse a string,3,340,7,T4,true,2,T4
+count vowels,4,697,9,T5,true,2,T5
+add two numbers,0,78,0,T6,true,1,T6
+multiply two numbers,1,54,2,T6,true,1,T6
+sort an array,2,63,4,T3,true,3,T3
+reverse a string,3,57,6,T4,true,2,T4
+count vowels,4,81,8,T5,true,2,T5
+add two numbers,0,415,1,T1,true,2,T1
+multiply two numbers,1,411,3,T2,true,3,T2
+sort an array,2,603,5,T3,true,3,T3
+reverse a string,3,479,7,T4,true,2,T4
+count vowels,4,846,9,T5,true,2,T5
+add two numbers,0,61,0,T6,true,1,T6
+multiply two numbers,1,58,2,T6,true,1,T6
+sort an array,2,56,4,T3,true,3,T3
+reverse a string,3,63,6,T4,true,2,T4
+count vowels,4,88,8,T5,true,2,T5
+add two numbers,0,730,1,T1,true,2,T1
+multiply two numbers,1,663,3,T2,true,3,T2
+sort an array,2,329,5,T3,true,3,T3
+reverse a string,3,390,7,T4,true,2,T4
+count vowels,4,633,9,T5,true,2,T5
+add two numbers,0,85,0,T6,true,1,T6
+multiply two numbers,1,86,2,T6,true,1,T6
+sort an array,2,51,4,T3,true,3,T3
+reverse a string,3,94,6,T4,true,2,T4
+count vowels,4,78,8,T5,true,2,T5
+add two numbers,0,617,1,T1,true,2,T1
+multiply two numbers,1,368,3,T2,true,3,T2
+sort an array,2,480,5,T3,true,3,T3
+reverse a string,3,849,7,T4,true,2,T4
+count vowels,4,725,9,T5,true,2,T5
+add two numbers,0,76,0,T6,true,1,T6
+multiply two numbers,1,64,2,T6,true,1,T6
+sort an array,2,83,4,T3,true,3,T3
+reverse a string,3,90,6,T4,true,2,T4
+count vowels,4,80,8,T5,true,2,T5
+add two numbers,0,551,1,T1,true,2,T1
+multiply two numbers,1,554,3,T2,true,3,T2
+sort an array,2,787,5,T3,true,3,T3
+reverse a string,3,457,7,T4,true,2,T4
+count vowels,4,804,9,T5,true,2,T5
+add two numbers,0,93,0,T6,true,1,T6
+multiply two numbers,1,75,2,T6,true,1,T6
+sort an array,2,70,4,T3,true,3,T3
+reverse a string,3,67,6,T4,true,2,T4
+count vowels,4,79,8,T5,true,2,T5
+add two numbers,0,499,1,T1,true,2,T1
+multiply two numbers,1,705,3,T2,true,3,T2
+sort an array,2,849,5,T3,true,3,T3
+reverse a string,3,335,7,T4,true,2,T4
+count vowels,4,842,9,T5,true,2,T5
+add two numbers,0,56,0,T6,true,1,T6
+multiply two numbers,1,57,2,T6,true,1,T6
+sort an array,2,71,4,T3,true,3,T3
+reverse a string,3,89,6,T4,true,2,T4
+count vowels,4,80,8,T5,true,2,T5
+add two numbers,0,384,1,T1,true,2,T1
+multiply two numbers,1,519,3,T2,true,3,T2
+sort an array,2,620,5,T3,true,3,T3
+reverse a string,3,733,7,T4,true,2,T4
+count vowels,4,347,9,T5,true,2,T5
+add two numbers,0,71,0,T6,true,1,T6
+multiply two numbers,1,77,2,T6,true,1,T6
+sort an array,2,78,4,T3,true,3,T3
+reverse a string,3,88,6,T4,true,2,T4
+count vowels,4,87,8,T5,true,2,T5
+add two numbers,0,572,1,T1,true,2,T1
+multiply two numbers,1,682,3,T2,true,3,T2
+sort an array,2,590,5,T3,true,3,T3
+reverse a string,3,466,7,T4,true,2,T4
+count vowels,4,351,9,T5,true,2,T5
+add two numbers,0,81,0,T6,true,1,T6
+multiply two numbers,1,61,2,T6,true,1,T6
+sort an array,2,83,4,T3,true,3,T3
+reverse a string,3,82,6,T4,true,2,T4
+count vowels,4,89,8,T5,true,2,T5
+add two numbers,0,531,1,T1,true,2,T1
+multiply two numbers,1,705,3,T2,true,3,T2
+sort an array,2,544,5,T3,true,3,T3
+reverse a string,3,830,7,T4,true,2,T4
+count vowels,4,426,9,T5,true,2,T5
+add two numbers,0,78,0,T6,true,1,T6
+multiply two numbers,1,63,2,T6,true,1,T6
+sort an array,2,90,4,T3,true,3,T3
+reverse a string,3,59,6,T4,true,2,T4
+count vowels,4,83,8,T5,true,2,T5
+add two numbers,0,626,1,T1,true,2,T1
+multiply two numbers,1,462,3,T2,true,3,T2
+sort an array,2,850,5,T3,true,3,T3
+reverse a string,3,408,7,T4,true,2,T4
+count vowels,4,689,9,T5,true,2,T5
+add two numbers,0,56,0,T6,true,1,T6
+multiply two numbers,1,81,2,T6,true,1,T6
+sort an array,2,85,4,T3,true,3,T3
+reverse a string,3,61,6,T4,true,2,T4
+count vowels,4,91,8,T5,true,2,T5
+add two numbers,0,524,1,T1,true,2,T1
+multiply two numbers,1,762,3,T2,true,3,T2
+sort an array,2,661,5,T3,true,3,T3
+reverse a string,3,654,7,T4,true,2,T4
+count vowels,4,388,9,T5,true,2,T5
+add two numbers,0,80,0,T6,true,1,T6
+multiply two numbers,1,60,2,T6,true,1,T6
+sort an array,2,87,4,T3,true,3,T3
+reverse a string,3,74,6,T4,true,2,T4
+count vowels,4,80,8,T5,true,2,T5
+add two numbers,0,480,1,T1,true,2,T1
+multiply two numbers,1,683,3,T2,true,3,T2
+sort an array,2,788,5,T3,true,3,T3
+reverse a string,3,401,7,T4,true,2,T4
+count vowels,4,321,9,T5,true,2,T5
+add two numbers,0,76,0,T6,true,1,T6
+multiply two numbers,1,91,2,T6,true,1,T6
+sort an array,2,94,4,T3,true,3,T3
+reverse a string,3,83,6,T4,true,2,T4
+count vowels,4,50,8,T5,true,2,T5
+add two numbers,0,834,1,T1,true,2,T1
+multiply two numbers,1,337,3,T2,true,3,T2
+sort an array,2,859,5,T3,true,3,T3
+reverse a string,3,843,7,T4,true,2,T4
+count vowels,4,819,9,T5,true,2,T5
+add two numbers,0,67,0,T6,true,1,T6
+multiply two numbers,1,72,2,T6,true,1,T6
+sort an array,2,93,4,T3,true,3,T3
+reverse a string,3,78,6,T4,true,2,T4
+count vowels,4,88,8,T5,true,2,T5
+add two numbers,0,667,1,T1,true,2,T1
+multiply two numbers,1,544,3,T2,true,3,T2
+sort an array,2,586,5,T3,true,3,T3
+reverse a string,3,536,7,T4,true,2,T4
+count vowels,4,732,9,T5,true,2,T5
+add two numbers,0,74,0,T6,true,1,T6
+multiply two numbers,1,67,2,T6,true,1,T6
+sort an array,2,69,4,T3,true,3,T3
+reverse a string,3,58,6,T4,true,2,T4
+count vowels,4,89,8,T5,true,2,T5
+add two numbers,0,484,1,T1,true,2,T1
+multiply two numbers,1,547,3,T2,true,3,T2
+sort an array,2,483,5,T3,true,3,T3
+reverse a string,3,751,7,T4,true,2,T4
+count vowels,4,850,9,T5,true,2,T5
+add two numbers,0,71,0,T6,true,1,T6
+multiply two numbers,1,64,2,T6,true,1,T6
+sort an array,2,68,4,T3,true,3,T3
+reverse a string,3,69,6,T4,true,2,T4
+count vowels,4,63,8,T5,true,2,T5
+add two numbers,0,483,1,T1,true,2,T1
+multiply two numbers,1,463,3,T2,true,3,T2
+sort an array,2,712,5,T3,true,3,T3
+reverse a string,3,337,7,T4,true,2,T4
+count vowels,4,357,9,T5,true,2,T5
+add two numbers,0,91,0,T6,true,1,T6
+multiply two numbers,1,66,2,T6,true,1,T6
+sort an array,2,66,4,T3,true,3,T3
+reverse a string,3,76,6,T4,true,2,T4
+count vowels,4,53,8,T5,true,2,T5
+add two numbers,0,818,1,T1,true,2,T1
+multiply two numbers,1,384,3,T2,true,3,T2
+sort an array,2,670,5,T3,true,3,T3
+reverse a string,3,368,7,T4,true,2,T4
+count vowels,4,685,9,T5,true,2,T5
+add two numbers,0,72,0,T6,true,1,T6
+multiply two numbers,1,68,2,T6,true,1,T6
+sort an array,2,75,4,T3,true,3,T3
+reverse a string,3,66,6,T4,true,2,T4
+count vowels,4,76,8,T5,true,2,T5
+add two numbers,0,624,1,T1,true,2,T1
+multiply two numbers,1,589,3,T2,true,3,T2
+sort an array,2,330,5,T3,true,3,T3
+reverse a string,3,783,7,T4,true,2,T4
+count vowels,4,396,9,T5,true,2,T5
+add two numbers,0,92,0,T6,true,1,T6
+multiply two numbers,1,84,2,T6,true,1,T6
+sort an array,2,57,4,T3,true,3,T3
+reverse a string,3,76,6,T4,true,2,T4
+count vowels,4,66,8,T5,true,2,T5
+add two numbers,0,558,1,T1,true,2,T1
+multiply two numbers,1,672,3,T2,true,3,T2
+sort an array,2,766,5,T3,true,3,T3
+reverse a string,3,650,7,T4,true,2,T4
+count vowels,4,520,9,T5,true,2,T5
+add two numbers,0,83,0,T6,true,1,T6
+multiply two numbers,1,82,2,T6,true,1,T6
+sort an array,2,75,4,T3,true,3,T3
+reverse a string,3,65,6,T4,true,2,T4
+count vowels,4,87,8,T5,true,2,T5
+add two numbers,0,740,1,T1,true,2,T1
+multiply two numbers,1,549,3,T2,true,3,T2
+sort an array,2,432,5,T3,true,3,T3
+reverse a string,3,811,7,T4,true,2,T4
+count vowels,4,835,9,T5,true,2,T5
+add two numbers,0,75,0,T6,true,1,T6
+multiply two numbers,1,76,2,T6,true,1,T6
+sort an array,2,59,4,T3,true,3,T3
+reverse a string,3,88,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,468,1,T1,true,2,T1
+multiply two numbers,1,769,3,T2,true,3,T2
+sort an array,2,468,5,T3,true,3,T3
+reverse a string,3,847,7,T4,true,2,T4
+count vowels,4,410,9,T5,true,2,T5
+add two numbers,0,76,0,T6,true,1,T6
+multiply two numbers,1,53,2,T6,true,1,T6
+sort an array,2,94,4,T3,true,3,T3
+reverse a string,3,78,6,T4,true,2,T4
+count vowels,4,90,8,T5,true,2,T5
+add two numbers,0,790,1,T1,true,2,T1
+multiply two numbers,1,402,3,T2,true,3,T2
+sort an array,2,661,5,T3,true,3,T3
+reverse a string,3,668,7,T4,true,2,T4
+count vowels,4,542,9,T5,true,2,T5
+add two numbers,0,53,0,T6,true,1,T6
+multiply two numbers,1,90,2,T6,true,1,T6
+sort an array,2,79,4,T3,true,3,T3
+reverse a string,3,63,6,T4,true,2,T4
+count vowels,4,52,8,T5,true,2,T5
+add two numbers,0,694,1,T1,true,2,T1
+multiply two numbers,1,518,3,T2,true,3,T2
+sort an array,2,569,5,T3,true,3,T3
+reverse a string,3,582,7,T4,true,2,T4
+count vowels,4,527,9,T5,true,2,T5
+add two numbers,0,84,0,T6,true,1,T6
+multiply two numbers,1,60,2,T6,true,1,T6
+sort an array,2,91,4,T3,true,3,T3
+reverse a string,3,88,6,T4,true,2,T4
+count vowels,4,72,8,T5,true,2,T5
+add two numbers,0,532,1,T1,true,2,T1
+multiply two numbers,1,374,3,T2,true,3,T2
+sort an array,2,784,5,T3,true,3,T3
+reverse a string,3,394,7,T4,true,2,T4
+count vowels,4,595,9,T5,true,2,T5
+add two numbers,0,92,0,T6,true,1,T6
+multiply two numbers,1,80,2,T6,true,1,T6
+sort an array,2,66,4,T3,true,3,T3
+reverse a string,3,83,6,T4,true,2,T4
+count vowels,4,80,8,T5,true,2,T5
+add two numbers,0,409,1,T1,true,2,T1
+multiply two numbers,1,380,3,T2,true,3,T2
+sort an array,2,582,5,T3,true,3,T3
+reverse a string,3,789,7,T4,true,2,T4
+count vowels,4,476,9,T5,true,2,T5
+add two numbers,0,77,0,T6,true,1,T6
+multiply two numbers,1,75,2,T6,true,1,T6
+sort an array,2,67,4,T3,true,3,T3
+reverse a string,3,83,6,T4,true,2,T4
+count vowels,4,52,8,T5,true,2,T5
+add two numbers,0,696,1,T1,true,2,T1
+multiply two numbers,1,484,3,T2,true,3,T2
+sort an array,2,681,5,T3,true,3,T3
+reverse a string,3,793,7,T4,true,2,T4
+count vowels,4,477,9,T5,true,2,T5
+add two numbers,0,80,0,T6,true,1,T6
+multiply two numbers,1,51,2,T6,true,1,T6
+sort an array,2,81,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,84,8,T5,true,2,T5
+add two numbers,0,664,1,T1,true,2,T1
+multiply two numbers,1,663,3,T2,true,3,T2
+sort an array,2,486,5,T3,true,3,T3
+reverse a string,3,709,7,T4,true,2,T4
+count vowels,4,412,9,T5,true,2,T5
+add two numbers,0,92,0,T6,true,1,T6
+multiply two numbers,1,63,2,T6,true,1,T6
+sort an array,2,67,4,T3,true,3,T3
+reverse a string,3,63,6,T4,true,2,T4
+count vowels,4,70,8,T5,true,2,T5
+add two numbers,0,834,1,T1,true,2,T1
+multiply two numbers,1,626,3,T2,true,3,T2
+sort an array,2,643,5,T3,true,3,T3
+reverse a string,3,643,7,T4,true,2,T4
+count vowels,4,353,9,T5,true,2,T5
+add two numbers,0,85,0,T6,true,1,T6
+multiply two numbers,1,55,2,T6,true,1,T6
+sort an array,2,79,4,T3,true,3,T3
+reverse a string,3,85,6,T4,true,2,T4
+count vowels,4,67,8,T5,true,2,T5
+add two numbers,0,810,1,T1,true,2,T1
+multiply two numbers,1,746,3,T2,true,3,T2
+sort an array,2,544,5,T3,true,3,T3
+reverse a string,3,629,7,T4,true,2,T4
+count vowels,4,565,9,T5,true,2,T5
+add two numbers,0,68,0,T6,true,1,T6
+multiply two numbers,1,83,2,T6,true,1,T6
+sort an array,2,53,4,T3,true,3,T3
+reverse a string,3,62,6,T4,true,2,T4
+count vowels,4,84,8,T5,true,2,T5
+add two numbers,0,747,1,T1,true,2,T1
+multiply two numbers,1,344,3,T2,true,3,T2
+sort an array,2,347,5,T3,true,3,T3
+reverse a string,3,640,7,T4,true,2,T4
+count vowels,4,528,9,T5,true,2,T5
+add two numbers,0,91,0,T6,true,1,T6
+multiply two numbers,1,55,2,T6,true,1,T6
+sort an array,2,55,4,T3,true,3,T3
+reverse a string,3,93,6,T4,true,2,T4
+count vowels,4,60,8,T5,true,2,T5
+add two numbers,0,646,1,T1,true,2,T1
+multiply two numbers,1,641,3,T2,true,3,T2
+sort an array,2,699,5,T3,true,3,T3
+reverse a string,3,604,7,T4,true,2,T4
+count vowels,4,829,9,T5,true,2,T5
+add two numbers,0,53,0,T6,true,1,T6
+multiply two numbers,1,75,2,T6,true,1,T6
+sort an array,2,84,4,T3,true,3,T3
+reverse a string,3,87,6,T4,true,2,T4
+count vowels,4,76,8,T5,true,2,T5
+add two numbers,0,454,1,T1,true,2,T1
+multiply two numbers,1,527,3,T2,true,3,T2
+sort an array,2,344,5,T3,true,3,T3
+reverse a string,3,457,7,T4,true,2,T4
+count vowels,4,859,9,T5,true,2,T5
+add two numbers,0,63,0,T6,true,1,T6
+multiply two numbers,1,55,2,T6,true,1,T6
+sort an array,2,72,4,T3,true,3,T3
+reverse a string,3,94,6,T4,true,2,T4
+count vowels,4,79,8,T5,true,2,T5
+add two numbers,0,717,1,T1,true,2,T1
+multiply two numbers,1,482,3,T2,true,3,T2
+sort an array,2,651,5,T3,true,3,T3
+reverse a string,3,439,7,T4,true,2,T4
+count vowels,4,710,9,T5,true,2,T5
+add two numbers,0,61,0,T6,true,1,T6
+multiply two numbers,1,88,2,T6,true,1,T6
+sort an array,2,55,4,T3,true,3,T3
+reverse a string,3,63,6,T4,true,2,T4
+count vowels,4,94,8,T5,true,2,T5
+add two numbers,0,321,1,T1,true,2,T1
+multiply two numbers,1,800,3,T2,true,3,T2
+sort an array,2,558,5,T3,true,3,T3
+reverse a string,3,525,7,T4,true,2,T4
+count vowels,4,630,9,T5,true,2,T5
+add two numbers,0,77,0,T6,true,1,T6
+multiply two numbers,1,76,2,T6,true,1,T6
+sort an array,2,84,4,T3,true,3,T3
+reverse a string,3,79,6,T4,true,2,T4
+count vowels,4,79,8,T5,true,2,T5
+add two numbers,0,746,1,T1,true,2,T1
+multiply two numbers,1,663,3,T2,true,3,T2
+sort an array,2,550,5,T3,true,3,T3
+reverse a string,3,530,7,T4,true,2,T4
+count vowels,4,352,9,T5,true,2,T5
+add two numbers,0,79,0,T6,true,1,T6
+multiply two numbers,1,69,2,T6,true,1,T6
+sort an array,2,89,4,T3,true,3,T3
+reverse a string,3,68,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,445,1,T1,true,2,T1
+multiply two numbers,1,487,3,T2,true,3,T2
+sort an array,2,435,5,T3,true,3,T3
+reverse a string,3,766,7,T4,true,2,T4
+count vowels,4,574,9,T5,true,2,T5
+add two numbers,0,74,0,T6,true,1,T6
+multiply two numbers,1,72,2,T6,true,1,T6
+sort an array,2,51,4,T3,true,3,T3
+reverse a string,3,63,6,T4,true,2,T4
+count vowels,4,66,8,T5,true,2,T5
+add two numbers,0,340,1,T1,true,2,T1
+multiply two numbers,1,350,3,T2,true,3,T2
+sort an array,2,625,5,T3,true,3,T3
+reverse a string,3,393,7,T4,true,2,T4
+count vowels,4,833,9,T5,true,2,T5
+add two numbers,0,72,0,T6,true,1,T6
+multiply two numbers,1,77,2,T6,true,1,T6
+sort an array,2,85,4,T3,true,3,T3
+reverse a string,3,72,6,T4,true,2,T4
+count vowels,4,66,8,T5,true,2,T5
+add two numbers,0,437,1,T1,true,2,T1
+multiply two numbers,1,745,3,T2,true,3,T2
+sort an array,2,337,5,T3,true,3,T3
+reverse a string,3,335,7,T4,true,2,T4
+count vowels,4,433,9,T5,true,2,T5
+add two numbers,0,51,0,T6,true,1,T6
+multiply two numbers,1,68,2,T6,true,1,T6
+sort an array,2,78,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,77,8,T5,true,2,T5
+add two numbers,0,706,1,T1,true,2,T1
+multiply two numbers,1,663,3,T2,true,3,T2
+sort an array,2,720,5,T3,true,3,T3
+reverse a string,3,373,7,T4,true,2,T4
+count vowels,4,354,9,T5,true,2,T5
+add two numbers,0,58,0,T6,true,1,T6
+multiply two numbers,1,94,2,T6,true,1,T6
+sort an array,2,90,4,T3,true,3,T3
+reverse a string,3,92,6,T4,true,2,T4
+count vowels,4,55,8,T5,true,2,T5
+add two numbers,0,625,1,T1,true,2,T1
+multiply two numbers,1,831,3,T2,true,3,T2
+sort an array,2,463,5,T3,true,3,T3
+reverse a string,3,778,7,T4,true,2,T4
+count vowels,4,759,9,T5,true,2,T5
+add two numbers,0,50,0,T6,true,1,T6
+multiply two numbers,1,90,2,T6,true,1,T6
+sort an array,2,89,4,T3,true,3,T3
+reverse a string,3,52,6,T4,true,2,T4
+count vowels,4,78,8,T5,true,2,T5
+add two numbers,0,696,1,T1,true,2,T1
+multiply two numbers,1,732,3,T2,true,3,T2
+sort an array,2,629,5,T3,true,3,T3
+reverse a string,3,754,7,T4,true,2,T4
+count vowels,4,819,9,T5,true,2,T5
+add two numbers,0,80,0,T6,true,1,T6
+multiply two numbers,1,80,2,T6,true,1,T6
+sort an array,2,59,4,T3,true,3,T3
+reverse a string,3,88,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,754,1,T1,true,2,T1
+multiply two numbers,1,785,3,T2,true,3,T2
+sort an array,2,438,5,T3,true,3,T3
+reverse a string,3,804,7,T4,true,2,T4
+count vowels,4,359,9,T5,true,2,T5
+add two numbers,0,83,0,T6,true,1,T6
+multiply two numbers,1,67,2,T6,true,1,T6
+sort an array,2,52,4,T3,true,3,T3
+reverse a string,3,71,6,T4,true,2,T4
+count vowels,4,77,8,T5,true,2,T5
+add two numbers,0,597,1,T1,true,2,T1
+multiply two numbers,1,714,3,T2,true,3,T2
+sort an array,2,854,5,T3,true,3,T3
+reverse a string,3,640,7,T4,true,2,T4
+count vowels,4,570,9,T5,true,2,T5
+add two numbers,0,67,0,T6,true,1,T6
+multiply two numbers,1,64,2,T6,true,1,T6
+sort an array,2,62,4,T3,true,3,T3
+reverse a string,3,85,6,T4,true,2,T4
+count vowels,4,59,8,T5,true,2,T5
+add two numbers,0,600,1,T1,true,2,T1
+multiply two numbers,1,535,3,T2,true,3,T2
+sort an array,2,446,5,T3,true,3,T3
+reverse a string,3,855,7,T4,true,2,T4
+count vowels,4,787,9,T5,true,2,T5
+add two numbers,0,80,0,T6,true,1,T6
+multiply two numbers,1,50,2,T6,true,1,T6
+sort an array,2,64,4,T3,true,3,T3
+reverse a string,3,90,6,T4,true,2,T4
+count vowels,4,62,8,T5,true,2,T5
+add two numbers,0,350,1,T1,true,2,T1
+multiply two numbers,1,592,3,T2,true,3,T2
+sort an array,2,856,5,T3,true,3,T3
+reverse a string,3,362,7,T4,true,2,T4
+count vowels,4,321,9,T5,true,2,T5
+add two numbers,0,81,0,T6,true,1,T6
+multiply two numbers,1,63,2,T6,true,1,T6
+sort an array,2,56,4,T3,true,3,T3
+reverse a string,3,77,6,T4,true,2,T4
+count vowels,4,79,8,T5,true,2,T5
+add two numbers,0,600,1,T1,true,2,T1
+multiply two numbers,1,535,3,T2,true,3,T2
+sort an array,2,559,5,T3,true,3,T3
+reverse a string,3,755,7,T4,true,2,T4
+count vowels,4,789,9,T5,true,2,T5
+add two numbers,0,94,0,T6,true,1,T6
+multiply two numbers,1,64,2,T6,true,1,T6
+sort an array,2,87,4,T3,true,3,T3
+reverse a string,3,73,6,T4,true,2,T4
+count vowels,4,65,8,T5,true,2,T5
+add two numbers,0,829,1,T1,true,2,T1
+multiply two numbers,1,510,3,T2,true,3,T2
+sort an array,2,674,5,T3,true,3,T3
+reverse a string,3,783,7,T4,true,2,T4
+count vowels,4,617,9,T5,true,2,T5
+add two numbers,0,84,0,T6,true,1,T6
+multiply two numbers,1,51,2,T6,true,1,T6
+sort an array,2,53,4,T3,true,3,T3
+reverse a string,3,51,6,T4,true,2,T4
+count vowels,4,85,8,T5,true,2,T5
+add two numbers,0,614,1,T1,true,2,T1
+multiply two numbers,1,606,3,T2,true,3,T2
+sort an array,2,569,5,T3,true,3,T3
+reverse a string,3,618,7,T4,true,2,T4
+count vowels,4,396,9,T5,true,2,T5
+add two numbers,0,64,0,T6,true,1,T6
+multiply two numbers,1,94,2,T6,true,1,T6
+sort an array,2,70,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,93,8,T5,true,2,T5
+add two numbers,0,662,1,T1,true,2,T1
+multiply two numbers,1,638,3,T2,true,3,T2
+sort an array,2,367,5,T3,true,3,T3
+reverse a string,3,500,7,T4,true,2,T4
+count vowels,4,802,9,T5,true,2,T5
+add two numbers,0,59,0,T6,true,1,T6
+multiply two numbers,1,51,2,T6,true,1,T6
+sort an array,2,58,4,T3,true,3,T3
+reverse a string,3,58,6,T4,true,2,T4
+count vowels,4,64,8,T5,true,2,T5
+add two numbers,0,679,1,T1,true,2,T1
+multiply two numbers,1,715,3,T2,true,3,T2
+sort an array,2,638,5,T3,true,3,T3
+reverse a string,3,388,7,T4,true,2,T4
+count vowels,4,324,9,T5,true,2,T5
+add two numbers,0,69,0,T6,true,1,T6
+multiply two numbers,1,93,2,T6,true,1,T6
+sort an array,2,83,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,57,8,T5,true,2,T5
+add two numbers,0,437,1,T1,true,2,T1
+multiply two numbers,1,558,3,T2,true,3,T2
+sort an array,2,738,5,T3,true,3,T3
+reverse a string,3,550,7,T4,true,2,T4
+count vowels,4,820,9,T5,true,2,T5
+add two numbers,0,89,0,T6,true,1,T6
+multiply two numbers,1,93,2,T6,true,1,T6
+sort an array,2,51,4,T3,true,3,T3
+reverse a string,3,63,6,T4,true,2,T4
+count vowels,4,55,8,T5,true,2,T5
+add two numbers,0,336,1,T1,true,2,T1
+multiply two numbers,1,464,3,T2,true,3,T2
+sort an array,2,652,5,T3,true,3,T3
+reverse a string,3,347,7,T4,true,2,T4
+count vowels,4,375,9,T5,true,2,T5
+add two numbers,0,85,0,T6,true,1,T6
+multiply two numbers,1,80,2,T6,true,1,T6
+sort an array,2,89,4,T3,true,3,T3
+reverse a string,3,86,6,T4,true,2,T4
+count vowels,4,88,8,T5,true,2,T5
+add two numbers,0,647,1,T1,true,2,T1
+multiply two numbers,1,455,3,T2,true,3,T2
+sort an array,2,731,5,T3,true,3,T3
+reverse a string,3,348,7,T4,true,2,T4
+count vowels,4,345,9,T5,true,2,T5
+add two numbers,0,77,0,T6,true,1,T6
+multiply two numbers,1,83,2,T6,true,1,T6
+sort an array,2,70,4,T3,true,3,T3
+reverse a string,3,77,6,T4,true,2,T4
+count vowels,4,53,8,T5,true,2,T5
+add two numbers,0,748,1,T1,true,2,T1
+multiply two numbers,1,526,3,T2,true,3,T2
+sort an array,2,562,5,T3,true,3,T3
+reverse a string,3,624,7,T4,true,2,T4
+count vowels,4,770,9,T5,true,2,T5
+add two numbers,0,56,0,T6,true,1,T6
+multiply two numbers,1,74,2,T6,true,1,T6
+sort an array,2,61,4,T3,true,3,T3
+reverse a string,3,66,6,T4,true,2,T4
+count vowels,4,68,8,T5,true,2,T5
+add two numbers,0,772,1,T1,true,2,T1
+multiply two numbers,1,811,3,T2,true,3,T2
+sort an array,2,475,5,T3,true,3,T3
+reverse a string,3,734,7,T4,true,2,T4
+count vowels,4,764,9,T5,true,2,T5
+add two numbers,0,74,0,T6,true,1,T6
+multiply two numbers,1,87,2,T6,true,1,T6
+sort an array,2,84,4,T3,true,3,T3
+reverse a string,3,89,6,T4,true,2,T4
+count vowels,4,57,8,T5,true,2,T5
+add two numbers,0,623,1,T1,true,2,T1
+multiply two numbers,1,458,3,T2,true,3,T2
+sort an array,2,802,5,T3,true,3,T3
+reverse a string,3,434,7,T4,true,2,T4
+count vowels,4,496,9,T5,true,2,T5
+add two numbers,0,78,0,T6,true,1,T6
+multiply two numbers,1,66,2,T6,true,1,T6
+sort an array,2,80,4,T3,true,3,T3
+reverse a string,3,90,6,T4,true,2,T4
+count vowels,4,71,8,T5,true,2,T5
+add two numbers,0,574,1,T1,true,2,T1
+multiply two numbers,1,820,3,T2,true,3,T2
+sort an array,2,683,5,T3,true,3,T3
+reverse a string,3,482,7,T4,true,2,T4
+count vowels,4,683,9,T5,true,2,T5
+add two numbers,0,53,0,T6,true,1,T6
+multiply two numbers,1,84,2,T6,true,1,T6
+sort an array,2,69,4,T3,true,3,T3
+reverse a string,3,58,6,T4,true,2,T4
+count vowels,4,73,8,T5,true,2,T5
+add two numbers,0,360,1,T1,true,2,T1
+multiply two numbers,1,777,3,T2,true,3,T2
+sort an array,2,405,5,T3,true,3,T3
+reverse a string,3,419,7,T4,true,2,T4
+count vowels,4,472,9,T5,true,2,T5
+add two numbers,0,90,0,T6,true,1,T6
+multiply two numbers,1,87,2,T6,true,1,T6
+sort an array,2,59,4,T3,true,3,T3
+reverse a string,3,75,6,T4,true,2,T4
+count vowels,4,83,8,T5,true,2,T5
+add two numbers,0,639,1,T1,true,2,T1
+multiply two numbers,1,553,3,T2,true,3,T2
+sort an array,2,388,5,T3,true,3,T3
+reverse a string,3,576,7,T4,true,2,T4
+count vowels,4,598,9,T5,true,2,T5
+add two numbers,0,94,0,T6,true,1,T6
+multiply two numbers,1,87,2,T6,true,1,T6
+sort an array,2,69,4,T3,true,3,T3
+reverse a string,3,64,6,T4,true,2,T4
+count vowels,4,54,8,T5,true,2,T5
+add two numbers,0,675,1,T1,true,2,T1
+multiply two numbers,1,655,3,T2,true,3,T2
+sort an array,2,706,5,T3,true,3,T3
+reverse a string,3,772,7,T4,true,2,T4
+count vowels,4,601,9,T5,true,2,T5
+add two numbers,0,56,0,T6,true,1,T6
+multiply two numbers,1,65,2,T6,true,1,T6
+sort an array,2,82,4,T3,true,3,T3
+reverse a string,3,91,6,T4,true,2,T4
+count vowels,4,67,8,T5,true,2,T5
+add two numbers,0,452,1,T1,true,2,T1
+multiply two numbers,1,332,3,T2,true,3,T2
+sort an array,2,502,5,T3,true,3,T3
+reverse a string,3,353,7,T4,true,2,T4
+count vowels,4,547,9,T5,true,2,T5
+add two numbers,0,62,0,T6,true,1,T6
+multiply two numbers,1,70,2,T6,true,1,T6
+sort an array,2,91,4,T3,true,3,T3
+reverse a string,3,87,6,T4,true,2,T4
+count vowels,4,53,8,T5,true,2,T5
+add two numbers,0,695,1,T1,true,2,T1
+multiply two numbers,1,667,3,T2,true,3,T2
+sort an array,2,528,5,T3,true,3,T3
+reverse a string,3,812,7,T4,true,2,T4
+count vowels,4,741,9,T5,true,2,T5
+add two numbers,0,63,0,T6,true,1,T6
+multiply two numbers,1,89,2,T6,true,1,T6
+sort an array,2,57,4,T3,true,3,T3
+reverse a string,3,58,6,T4,true,2,T4
+count vowels,4,89,8,T5,true,2,T5
+add two numbers,0,812,1,T1,true,2,T1
+multiply two numbers,1,808,3,T2,true,3,T2
+sort an array,2,663,5,T3,true,3,T3
+reverse a string,3,662,7,T4,true,2,T4
+count vowels,4,402,9,T5,true,2,T5
+add two numbers,0,71,0,T6,true,1,T6
+multiply two numbers,1,77,2,T6,true,1,T6
+sort an array,2,82,4,T3,true,3,T3
+reverse a string,3,80,6,T4,true,2,T4
+count vowels,4,56,8,T5,true,2,T5
+add two numbers,0,653,1,T1,true,2,T1
+multiply two numbers,1,755,3,T2,true,3,T2
+sort an array,2,839,5,T3,true,3,T3
+reverse a string,3,459,7,T4,true,2,T4
+count vowels,4,407,9,T5,true,2,T5
+add two numbers,0,78,0,T6,true,1,T6
+multiply two numbers,1,72,2,T6,true,1,T6
+sort an array,2,59,4,T3,true,3,T3
+reverse a string,3,79,6,T4,true,2,T4
+count vowels,4,77,8,T5,true,2,T5
+add two numbers,0,458,1,T1,true,2,T1
+multiply two numbers,1,631,3,T2,true,3,T2
+sort an array,2,397,5,T3,true,3,T3
+reverse a string,3,490,7,T4,true,2,T4
+count vowels,4,738,9,T5,true,2,T5
+add two numbers,0,56,0,T6,true,1,T6
+multiply two numbers,1,78,2,T6,true,1,T6
+sort an array,2,69,4,T3,true,3,T3
+reverse a string,3,65,6,T4,true,2,T4
+count vowels,4,90,8,T5,true,2,T5
+add two numbers,0,846,1,T1,true,2,T1
+multiply two numbers,1,327,3,T2,true,3,T2
+sort an array,2,711,5,T3,true,3,T3
+reverse a string,3,785,7,T4,true,2,T4
+count vowels,4,560,9,T5,true,2,T5
+add two numbers,0,51,0,T6,true,1,T6
+multiply two numbers,1,83,2,T6,true,1,T6
+sort an array,2,73,4,T3,true,3,T3
+reverse a string,3,57,6,T4,true,2,T4
+count vowels,4,75,8,T5,true,2,T5
+add two numbers,0,826,1,T1,true,2,T1
+multiply two numbers,1,695,3,T2,true,3,T2
+sort an array,2,696,5,T3,true,3,T3
+reverse a string,3,429,7,T4,true,2,T4
+count vowels,4,822,9,T5,true,2,T5

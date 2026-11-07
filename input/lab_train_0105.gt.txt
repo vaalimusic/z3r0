@@ -1,0 +1,3 @@
+The result is either correct or incorrect.
+A longer sentence contains more possible errors.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789

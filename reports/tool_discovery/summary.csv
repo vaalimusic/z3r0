@@ -1,0 +1,7 @@
+strategy,n,correct,accuracy_percent,mean_cost,mean_utility
+training_early,500,366,73.200,4.288,0.378
+training_late,500,456,91.200,2.250,0.779
+random,1000,312,31.200,3.247,-0.441
+always_universal,1000,1000,100.000,11.000,0.780
+learned,1000,1000,100.000,2.100,0.958
+oracle,1000,1000,100.000,2.100,0.958

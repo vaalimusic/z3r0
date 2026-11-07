@@ -1,0 +1,3 @@
+Learning is useful when new evidence arrives.
+Every computation should justify its cost.
+Software can be fast without being accurate.

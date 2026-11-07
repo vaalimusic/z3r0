@@ -1,0 +1,2 @@
+A quick brown fox jumps over the lazy dog.
+ZERO reads letters and digits: 2026, 0185, 9034.

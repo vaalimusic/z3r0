@@ -1,0 +1,2 @@
+Recognizing 0 and O requires careful context.
+ZERO reads letters and digits: 2026, 0185, 9034.

@@ -1,0 +1,8 @@
+file,duration_ms,fast,neural,rejected,recognized
+"input\exam_01_normal.png",58,2,41,4,"ZERO ?S LEARN?NG TO READ W?THOUT ANY E.ERNAL OCR ENG?NE."
+"input\exam_02_small.png",44,0,31,4,"A S- FONT C? ? IwORT?T ?SSES IN .COGNITION."
+"input\exam_03_bold.png",50,4,36,0,"THE QUICK BROWN FOX JUMPs OVER THE LAZY DOG 2026 ."
+"input\exam_04_gray.png",53,0,42,0,"MEMO. AND NEU.L NE-ORKS MUST COOPE-E EFFICIENTW."
+"input\exam_05_multiline.png",83,9,54,6,"ZEi IS ? -EmM? OCR ?GINE. IT MUST L- FiM DIFFE- FO?S. THE FI- G- IS iBUST T? .CO?ITION."
+"input\zero_generated.png",154,26,101,0,"HELLO WORLD THIs Is A TEsT OF ZERO OCR sYsTEM The quick bmWn mX jumps OVer the Iazy dOg. Rust 2026: Zem mads a IOnger sentence! 1 234567890 Test, test, test."
+"input\zero_heldout.png",158,28,103,0,"HELLO wORLD THIs Is A TEsT OF zERO OcR sYsTEM The quick brown fox jumps over the Iazy dog. Rust 2O26: zero reads a Ionger sentence! 123456789O Test, test, test."

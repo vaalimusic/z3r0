@@ -1,0 +1,2 @@
+Learning is useful when new evidence arrives.
+Rust code handles images, words, and symbols.

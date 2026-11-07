@@ -1,0 +1,2 @@
+Every computation should justify its cost.
+The system must stop when work is not worthwhile.

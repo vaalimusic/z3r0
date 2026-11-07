@@ -1,0 +1,11 @@
+context,kind,size_bucket,chosen_tool,calls_seen,mean_training_reward
+0,0,small,T6,311,0.9800
+1,0,large,T1,298,0.9600
+2,1,small,T6,318,0.9800
+3,1,large,T2,312,0.9400
+4,2,small,T3,315,0.9400
+5,2,large,T3,277,0.9400
+6,3,small,T4,308,0.9600
+7,3,large,T4,295,0.9600
+8,4,small,T5,302,0.9600
+9,4,large,T5,299,0.9600

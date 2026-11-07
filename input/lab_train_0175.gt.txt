@@ -1,0 +1,3 @@
+Software can be fast without being accurate.
+The system must stop when work is not worthwhile.
+Software can be fast without being accurate.

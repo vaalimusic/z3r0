@@ -1,0 +1,302 @@
+[
+  {
+    "cap": 0,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.1208333333333336,
+    "micro_cer": 0.1489961253962663,
+    "mode": "confidence"
+  },
+  {
+    "cap": 0,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.1077083333333335,
+    "micro_cer": 0.1489961253962663,
+    "mode": "core02"
+  },
+  {
+    "cap": 0,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.0865625,
+    "micro_cer": 0.1489961253962663,
+    "mode": "core03"
+  },
+  {
+    "cap": 0,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.2618958333333334,
+    "micro_cer": 0.1489961253962663,
+    "mode": "core04"
+  },
+  {
+    "cap": 0,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.0990625,
+    "micro_cer": 0.1489961253962663,
+    "mode": "neural"
+  },
+  {
+    "cap": 2,
+    "characters": 2839,
+    "errors": 407,
+    "images": 48,
+    "mean_calls": 2.0,
+    "mean_ms": 4.5125,
+    "micro_cer": 0.14336033814723495,
+    "mode": "confidence"
+  },
+  {
+    "cap": 2,
+    "characters": 2839,
+    "errors": 396,
+    "images": 48,
+    "mean_calls": 1.7708333333333333,
+    "mean_ms": 4.2621875,
+    "micro_cer": 0.13948573441352588,
+    "mode": "core02"
+  },
+  {
+    "cap": 2,
+    "characters": 2839,
+    "errors": 405,
+    "images": 48,
+    "mean_calls": 1.125,
+    "mean_ms": 3.49075,
+    "micro_cer": 0.14265586474110603,
+    "mode": "core03"
+  },
+  {
+    "cap": 2,
+    "characters": 2839,
+    "errors": 405,
+    "images": 48,
+    "mean_calls": 1.7708333333333333,
+    "mean_ms": 4.5855,
+    "micro_cer": 0.14265586474110603,
+    "mode": "core04"
+  },
+  {
+    "cap": 2,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.098625,
+    "micro_cer": 0.1489961253962663,
+    "mode": "neural"
+  },
+  {
+    "cap": 4,
+    "characters": 2839,
+    "errors": 393,
+    "images": 48,
+    "mean_calls": 4.0,
+    "mean_ms": 7.009645833333333,
+    "micro_cer": 0.13842902430433252,
+    "mode": "confidence"
+  },
+  {
+    "cap": 4,
+    "characters": 2839,
+    "errors": 384,
+    "images": 48,
+    "mean_calls": 3.375,
+    "mean_ms": 6.181583333333333,
+    "micro_cer": 0.13525889397675236,
+    "mode": "core02"
+  },
+  {
+    "cap": 4,
+    "characters": 2839,
+    "errors": 394,
+    "images": 48,
+    "mean_calls": 1.5416666666666667,
+    "mean_ms": 3.9321666666666664,
+    "micro_cer": 0.13878126100739696,
+    "mode": "core03"
+  },
+  {
+    "cap": 4,
+    "characters": 2839,
+    "errors": 392,
+    "images": 48,
+    "mean_calls": 3.5208333333333335,
+    "mean_ms": 6.479145833333333,
+    "micro_cer": 0.13807678760126804,
+    "mode": "core04"
+  },
+  {
+    "cap": 4,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.101,
+    "micro_cer": 0.1489961253962663,
+    "mode": "neural"
+  },
+  {
+    "cap": 6,
+    "characters": 2839,
+    "errors": 385,
+    "images": 48,
+    "mean_calls": 6.0,
+    "mean_ms": 9.732895833333334,
+    "micro_cer": 0.13561113067981684,
+    "mode": "confidence"
+  },
+  {
+    "cap": 6,
+    "characters": 2839,
+    "errors": 379,
+    "images": 48,
+    "mean_calls": 4.75,
+    "mean_ms": 8.033416666666668,
+    "micro_cer": 0.13349771046143008,
+    "mode": "core02"
+  },
+  {
+    "cap": 6,
+    "characters": 2839,
+    "errors": 389,
+    "images": 48,
+    "mean_calls": 1.7291666666666667,
+    "mean_ms": 4.378666666666667,
+    "micro_cer": 0.13702007749207468,
+    "mode": "core03"
+  },
+  {
+    "cap": 6,
+    "characters": 2839,
+    "errors": 387,
+    "images": 48,
+    "mean_calls": 5.041666666666667,
+    "mean_ms": 8.571541666666667,
+    "micro_cer": 0.13631560408594576,
+    "mode": "core04"
+  },
+  {
+    "cap": 6,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.1726458333333336,
+    "micro_cer": 0.1489961253962663,
+    "mode": "neural"
+  },
+  {
+    "cap": 8,
+    "characters": 2839,
+    "errors": 373,
+    "images": 48,
+    "mean_calls": 8.0,
+    "mean_ms": 11.4553125,
+    "micro_cer": 0.13138429024304332,
+    "mode": "confidence"
+  },
+  {
+    "cap": 8,
+    "characters": 2839,
+    "errors": 375,
+    "images": 48,
+    "mean_calls": 5.9375,
+    "mean_ms": 9.0820625,
+    "micro_cer": 0.13208876364917224,
+    "mode": "core02"
+  },
+  {
+    "cap": 8,
+    "characters": 2839,
+    "errors": 388,
+    "images": 48,
+    "mean_calls": 1.7708333333333333,
+    "mean_ms": 4.174833333333333,
+    "micro_cer": 0.1366678407890102,
+    "mode": "core03"
+  },
+  {
+    "cap": 8,
+    "characters": 2839,
+    "errors": 377,
+    "images": 48,
+    "mean_calls": 6.395833333333333,
+    "mean_ms": 9.706125,
+    "micro_cer": 0.13279323705530116,
+    "mode": "core04"
+  },
+  {
+    "cap": 8,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.0619583333333336,
+    "micro_cer": 0.1489961253962663,
+    "mode": "neural"
+  },
+  {
+    "cap": 12,
+    "characters": 2839,
+    "errors": 363,
+    "images": 48,
+    "mean_calls": 12.0,
+    "mean_ms": 16.345229166666666,
+    "micro_cer": 0.12786192321239873,
+    "mode": "confidence"
+  },
+  {
+    "cap": 12,
+    "characters": 2839,
+    "errors": 368,
+    "images": 48,
+    "mean_calls": 7.645833333333333,
+    "mean_ms": 11.182354166666666,
+    "micro_cer": 0.12962310672772104,
+    "mode": "core02"
+  },
+  {
+    "cap": 12,
+    "characters": 2839,
+    "errors": 388,
+    "images": 48,
+    "mean_calls": 1.7708333333333333,
+    "mean_ms": 4.213479166666667,
+    "micro_cer": 0.1366678407890102,
+    "mode": "core03"
+  },
+  {
+    "cap": 12,
+    "characters": 2839,
+    "errors": 373,
+    "images": 48,
+    "mean_calls": 8.270833333333334,
+    "mean_ms": 12.101979166666666,
+    "micro_cer": 0.13138429024304332,
+    "mode": "core04"
+  },
+  {
+    "cap": 12,
+    "characters": 2839,
+    "errors": 423,
+    "images": 48,
+    "mean_calls": 0.0,
+    "mean_ms": 2.0720625,
+    "micro_cer": 0.1489961253962663,
+    "mode": "neural"
+  }
+]

@@ -1,0 +1,3 @@
+Software can be fast without being accurate.
+Every computation should justify its cost.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789

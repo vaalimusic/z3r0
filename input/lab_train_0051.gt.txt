@@ -1,0 +1,2 @@
+Every computation should justify its cost.
+The next experiment checks unseen typography.

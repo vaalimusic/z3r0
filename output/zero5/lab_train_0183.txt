@@ -1,0 +1,2 @@
+The system must stop when work is not worthwhiIe.
+Rust code handIes images, words, and symboIs.

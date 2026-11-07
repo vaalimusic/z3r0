@@ -1,0 +1,130 @@
+[
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 0,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.15000000596046448,
+    "samples": 38
+  },
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 1,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.15000000596046448,
+    "samples": 20
+  },
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 2,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.15000000596046448,
+    "samples": 11
+  },
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 3,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.15000000596046448,
+    "samples": 8
+  },
+  {
+    "actual_gain_per_call": 0.4,
+    "bin": 8,
+    "fixes": 6,
+    "harms": 0,
+    "predicted_utility": 0.07222221791744232,
+    "samples": 15
+  },
+  {
+    "actual_gain_per_call": 0.4,
+    "bin": 9,
+    "fixes": 28,
+    "harms": 0,
+    "predicted_utility": 0.1294117569923401,
+    "samples": 70
+  },
+  {
+    "actual_gain_per_call": 0.07142857142857142,
+    "bin": 10,
+    "fixes": 3,
+    "harms": 0,
+    "predicted_utility": -0.1352941244840622,
+    "samples": 42
+  },
+  {
+    "actual_gain_per_call": -0.008403361344537815,
+    "bin": 11,
+    "fixes": 1,
+    "harms": 2,
+    "predicted_utility": -0.04032258689403534,
+    "samples": 119
+  },
+  {
+    "actual_gain_per_call": 0.029411764705882353,
+    "bin": 12,
+    "fixes": 1,
+    "harms": 0,
+    "predicted_utility": -0.15000000596046448,
+    "samples": 34
+  },
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 13,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.15000000596046448,
+    "samples": 4
+  },
+  {
+    "actual_gain_per_call": 0.0425531914893617,
+    "bin": 20,
+    "fixes": 2,
+    "harms": 0,
+    "predicted_utility": -0.1280219852924347,
+    "samples": 47
+  },
+  {
+    "actual_gain_per_call": 0.2033898305084746,
+    "bin": 21,
+    "fixes": 24,
+    "harms": 0,
+    "predicted_utility": -0.09074074774980545,
+    "samples": 118
+  },
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 22,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.15735295414924622,
+    "samples": 49
+  },
+  {
+    "actual_gain_per_call": 0.0,
+    "bin": 23,
+    "fixes": 0,
+    "harms": 0,
+    "predicted_utility": -0.12777778506278992,
+    "samples": 75
+  },
+  {
+    "actual_gain_per_call": -0.004297114794352364,
+    "bin": 30,
+    "fixes": 0,
+    "harms": 7,
+    "predicted_utility": -0.15091033279895782,
+    "samples": 1629
+  },
+  {
+    "actual_gain_per_call": 0.007407407407407408,
+    "bin": 31,
+    "fixes": 1,
+    "harms": 0,
+    "predicted_utility": -0.14625468850135803,
+    "samples": 135
+  }
+]

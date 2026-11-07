@@ -1,0 +1,2 @@
+Memory may rescue an uncertain neural decision.
+Measure errors before changing the scheduler.

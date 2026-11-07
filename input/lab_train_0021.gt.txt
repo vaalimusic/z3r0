@@ -1,0 +1,2 @@
+The result is either correct or incorrect.
+Confidence alone cannot guarantee correctness.

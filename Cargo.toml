@@ -1,0 +1,24 @@
+[package]
+name = "zero_feature_discovery"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "zero_feature_discovery"
+path = "src/bin/zero_feature_discovery.rs"
+
+[[bin]]
+name = "zero_multidimensional"
+path = "src/bin/zero_multidimensional.rs"
+
+[[bin]]
+name = "zero_real_tools"
+path = "src/bin/zero_real_tools.rs"
+
+[[bin]]
+name = "zero_multidim_robustness"
+path = "src/bin/zero_multidim_robustness.rs"
+
+[[bin]]
+name = "zero_multidim_composition"
+path = "src/bin/zero_multidim_composition.rs"

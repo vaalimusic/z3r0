@@ -1,0 +1,2 @@
+Every computation should justify its cost.
+Confidence alone cannot guarantee correctness.

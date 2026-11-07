@@ -1,0 +1,2 @@
+Every computation should justify its cost.
+The result is either correct or incorrect.

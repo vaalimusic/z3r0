@@ -1,0 +1,2 @@
+Every computation should justify its cost.
+A rejected answer is sometimes the safest choice.

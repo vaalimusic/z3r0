@@ -1,0 +1,3 @@
+Measure errors before changing the scheduler.
+The system must stop when work is not worthwhile.
+Memory may rescue an uncertain neural decision.

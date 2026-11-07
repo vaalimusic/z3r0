@@ -1,0 +1,3 @@
+The next experiment checks unseen typography.
+abcdefghijklmnopqrstuvwxyz 0123456789
+Small fonts reveal segmentation mistakes.

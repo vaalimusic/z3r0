@@ -1,0 +1,3 @@
+Software can be fast without being accurate.
+Confidence alone cannot guarantee correctness.
+A rejected answer is sometimes the safest choice.

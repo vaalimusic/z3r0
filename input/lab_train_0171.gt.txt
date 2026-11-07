@@ -1,0 +1,2 @@
+Rust code handles images, words, and symbols.
+Rust code handles images, words, and symbols.

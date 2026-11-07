@@ -1,0 +1,2 @@
+Rust code handles images, words, and symbols.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789

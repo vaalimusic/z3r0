@@ -1,0 +1,4 @@
+HELLO ?ORLD THIs Is A TEsT OF zERO OCR sYsTEM
+The quick brown fox jumps over the lazy dog.
+Rust 2O26: zero reads a longer sentence!
+123456789O Test, test, test.

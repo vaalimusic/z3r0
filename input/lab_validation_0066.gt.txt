@@ -1,0 +1,2 @@
+Rust code handles images, words, and symbols.
+The next experiment checks unseen typography.

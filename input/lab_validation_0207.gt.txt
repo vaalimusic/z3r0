@@ -1,0 +1,2 @@
+abcdefghijklmnopqrstuvwxyz 0123456789
+Software can be fast without being accurate.

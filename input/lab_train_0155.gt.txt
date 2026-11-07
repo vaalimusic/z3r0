@@ -1,0 +1,3 @@
+Memory may rescue an uncertain neural decision.
+Rust code handles images, words, and symbols.
+Software can be fast without being accurate.

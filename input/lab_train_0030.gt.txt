@@ -1,0 +1,3 @@
+Rust code handles images, words, and symbols.
+Software can be fast without being accurate.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789

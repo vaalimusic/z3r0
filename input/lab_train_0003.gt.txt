@@ -1,0 +1,2 @@
+Rust code handles images, words, and symbols.
+The system must stop when work is not worthwhile.

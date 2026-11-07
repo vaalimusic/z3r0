@@ -1,0 +1,3 @@
+Confidence alone cannot guarantee correctness.
+A quick brown fox jumps over the lazy dog.
+Learning is useful when new evidence arrives.

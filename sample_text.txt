@@ -1,0 +1,4 @@
+HELLO WORLD THIS IS A TEST OF ZERO OCR SYSTEM
+The quick brown fox jumps over the lazy dog.
+Rust 2026: Zero reads a longer sentence!
+1234567890 Test, test, test.

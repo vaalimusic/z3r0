@@ -1,0 +1,2 @@
+Rust code handles images, words, and symbols.
+A rejected answer is sometimes the safest choice.

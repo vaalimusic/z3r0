@@ -1,0 +1,7 @@
+policy,seeds,tasks,first_attempt_pct,final_success_pct,mean_cost,regret_per_task,total_probes
+frozen,16,160000,65.606,100.000,6.22221,1.22561,0
+fixed_exploration,16,160000,96.219,100.000,5.26665,0.27005,5704
+adaptive_curiosity,16,160000,98.194,100.000,5.25907,0.26247,2554
+staleness_aware,16,160000,97.942,100.000,5.23030,0.23370,2845
+always_universal,16,160000,100.000,100.000,11.00000,6.00340,0
+oracle,16,160000,100.000,100.000,4.99660,0.00000,0

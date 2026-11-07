@@ -1,0 +1,2 @@
+Software can be fast without being accurate.
+Memory may rescue an uncertain neural decision.
