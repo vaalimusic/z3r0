@@ -22,3 +22,7 @@ path = "src/bin/zero_multidim_robustness.rs"
 [[bin]]
 name = "zero_multidim_composition"
 path = "src/bin/zero_multidim_composition.rs"
+
+[[bin]]
+name = "zero_context_recovery"
+path = "src/bin/zero_context_recovery.rs"
