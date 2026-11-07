@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "zero_feature_discovery"
-version = "0.1.0"
+name = "z3r0"
+version = "0.8.0"

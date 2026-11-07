@@ -1,28 +1,48 @@
 [package]
-name = "zero_feature_discovery"
-version = "0.1.0"
+name = "z3r0"
+version = "0.8.0"
 edition = "2021"
+authors = ["Arthur Valiev <https://desk.everty.ru/opensource>"]
+description = "ZERO: Autonomous Adaptive Decision Engine & Tool Orchestrator in Pure Rust"
+license = "MIT"
+autobins = false
 
 [[bin]]
-name = "zero_feature_discovery"
-path = "src/bin/zero_feature_discovery.rs"
-
-[[bin]]
-name = "zero_multidimensional"
-path = "src/bin/zero_multidimensional.rs"
-
-[[bin]]
-name = "zero_real_tools"
-path = "src/bin/zero_real_tools.rs"
-
-[[bin]]
-name = "zero_multidim_robustness"
-path = "src/bin/zero_multidim_robustness.rs"
+name = "zero_context_recovery"
+path = "src/bin/zero_context_recovery.rs"
 
 [[bin]]
 name = "zero_multidim_composition"
 path = "src/bin/zero_multidim_composition.rs"
 
 [[bin]]
-name = "zero_context_recovery"
-path = "src/bin/zero_context_recovery.rs"
+name = "zero_multidim_robustness"
+path = "src/bin/zero_multidim_robustness.rs"
+
+[[bin]]
+name = "zero_multidimensional"
+path = "src/bin/zero_multidimensional.rs"
+
+[[bin]]
+name = "zero_feature_discovery"
+path = "src/bin/zero_feature_discovery.rs"
+
+[[bin]]
+name = "zero_capability_bounds"
+path = "src/bin/zero_capability_bounds.rs"
+
+[[bin]]
+name = "zero_adaptation"
+path = "src/bin/zero_adaptation.rs"
+
+[[bin]]
+name = "zero_adaptive_curiosity"
+path = "src/bin/zero_adaptive_curiosity.rs"
+
+[[bin]]
+name = "zero_staleness"
+path = "src/bin/zero_staleness.rs"
+
+[[bin]]
+name = "zero_real_tools"
+path = "src/bin/zero_real_tools.rs"
